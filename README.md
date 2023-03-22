@@ -46,7 +46,7 @@ Start website using node
 
 ## Screenshots
 
-[1](https://user-images.githubusercontent.com/96524088/226978098-418fb033-b1a9-4bfe-a6b3-3563cd340d7a.jpg)
+![DP1](https://user-images.githubusercontent.com/96524088/226978098-418fb033-b1a9-4bfe-a6b3-3563cd340d7a.jpg)
 
 
 ![DP1](https://user-images.githubusercontent.com/89148021/201885213-52706670-b7c5-404c-a0ab-c41214948ee2.PNG)
