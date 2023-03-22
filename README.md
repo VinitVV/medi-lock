@@ -20,8 +20,9 @@ The problem statement is that there is currently no platform specifically design
 
 ## Functionality
 
-- The user just has to enter his/her testing parameters like Pregnancies, Glucose, Blood Pressure, Insulin levels, BMI, Age.
-- The model analyses the data and determines whether the user is diabetic for not.
+- Uploading and saving medical records: MEDI-LOCK enables users to upload and save medical records securely on the cloud-based platform.
+- Sharing medical records with doctors: Patients can easily share their medical records electronically with doctors and healthcare organizations using MEDI-LOCK.
+- Validating electronic documents: MEDI-LOCK uses advanced technology to validate electronic medical documents, ensuring the accuracy and reliability of the information shared on the platform.
 
 ## Run Locally
 
@@ -47,11 +48,15 @@ Start website using node
 ## Screenshots
 
 ![DP1](https://user-images.githubusercontent.com/96524088/226978098-418fb033-b1a9-4bfe-a6b3-3563cd340d7a.jpg)
+![DP2](https://user-images.githubusercontent.com/96524088/226978827-8f2f114a-e43f-4233-88bf-b0a783ad80f7.jpg)
+![DP3](https://user-images.githubusercontent.com/96524088/226978847-466653a9-f920-4663-8f11-b71f81ee5f94.jpg)
+![DP4](https://user-images.githubusercontent.com/96524088/226978861-60152128-8e16-4880-bb6a-e1071e3de391.jpg)
+![DP5](https://user-images.githubusercontent.com/96524088/226978898-0d1de27d-f5d8-417d-a1f5-1195980febe7.jpg)
+![DP6](https://user-images.githubusercontent.com/96524088/226978914-b29f6ece-a81b-45bc-a45e-9e79405b1229.jpg)
+![DP7](https://user-images.githubusercontent.com/96524088/226978913-05069d71-0266-462d-9b37-a33d931b1d88.jpg)
+![DP8](https://user-images.githubusercontent.com/96524088/226978909-ff7df557-3129-4214-af61-99e22b9861a5.jpg)
+![DP9](https://user-images.githubusercontent.com/96524088/226978904-d4e3dd1a-8308-4071-b5fb-25027c6b425b.jpg)
 
-
-![DP1](https://user-images.githubusercontent.com/89148021/201885213-52706670-b7c5-404c-a0ab-c41214948ee2.PNG)
- 
-![DP2](https://user-images.githubusercontent.com/89148021/201885253-27d591f4-176e-443d-97ea-1d8d28fac589.PNG)
 
 
 ## Contributing
